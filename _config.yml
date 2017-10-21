@@ -3,3 +3,4 @@ encoding: utf-8
 future: true
 title: Dispatches from South East Asia
 description: ...for Asa Kanako Jon
+baseurl: /sea
