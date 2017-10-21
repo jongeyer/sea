@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<section class="disclaimer">
+  {{ content }}
+</section>
+
+{% for post in site.posts %}
+<section>
+  <div class="flexbox align-baseline">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="timestamp flex">{{ post.date | date: "%B %e, %Y" }}</div>
+  </div>
+  <div>
+    {{ post.content }}
+  </div>
+</section>
+{% endfor %}

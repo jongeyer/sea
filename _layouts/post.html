@@ -1,0 +1,17 @@
+---
+layout: base
+---
+
+<section>
+<div><a href='{{ site.url }}'>&laquo; back</a></div>
+
+<br><br>
+<div class="flexbox align-baseline">
+  <h1>{{ page.title }}</h1>
+  <div class="timestamp flex">{{ page.date | date: "%B %e, %Y" }}</div>
+</div>
+
+<br>
+{{ content }}
+
+</section>
