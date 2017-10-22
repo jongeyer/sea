@@ -19,7 +19,9 @@ The refrain, despite being a ridiculous statement, nevertheless struck me as som
 
 We stayed in a large high rise (reasonable Airbnb) a few blocks from the famous buildings: KL Tower (looks like Seattle space needle or Tokyo's Sky Tree); and [KL twin towers](https://www.wikiwand.com/en/Petronas_Towers), the tallest building in the world once upon a time.  High rises were everywhere, but there are still pockets of neighborhoods with small houses that have so far survived the development.
 
-Compared to Indonesia, prices are little higher in Malaysia. But the Malaysian Ringit (RM), is more manageable than the Indonesia Rupee (IDR). $1 = 4 RM, $1 = 13,000 IDR. We roamed around some big markets and streets, the highlight was Kampung Baru. Also people-watching in the Chinatown, Little India, Little Pakistan areas. Food was overflowing with flavor, and mostly good — the unremarkable ones were  a result of poor choice of restaurants.
+We used Uber a lot in KL, as do many locals. There seemed to be a hundred or so Uber drivers idling outside the airport waiting for their phones to chime. In the city center, we made good used of the free hop-on/hop-off buses (though the bus service map was a confusing failure in design). KL, despite being a large developed metropolis, is still part of Southeast Asia, so it's really not pedestrian-friendly, and sometimes you feel like you need to hail an Uber just to cross a busy street with no pedestrian crossing.
+
+Compared to Indonesia, prices are little higher in Malaysia. But the Malaysian Ringgit (RM), is more manageable than the Indonesia Rupee (IDR). $1 = 4 RM, $1 = 13,000 IDR. We roamed around some big markets and streets, the highlight was Kampung Baru. Also people-watching in the Chinatown, Little India, Little Pakistan areas. Food was overflowing with flavor, and mostly good — the unremarkable ones were  a result of poor choice of restaurants.
 
 ![Chinatown market]({{ site.baseurl }}/assets/img-kl/chinatown-market.jpg)
 *A market street in Chinatown*
