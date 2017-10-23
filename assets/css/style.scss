@@ -26,6 +26,9 @@ body {
 
   transition: all .5s;
 }
+p {
+  margin: 0 0 1em;
+}
 a {
   color: $blue;
 
@@ -36,6 +39,9 @@ a {
 }
 h1, h2, h3 {
   margin-top: 2em;
+}
+hr {
+  margin: .5em 0;
 }
 
 img + em {
@@ -79,6 +85,9 @@ header {
     float: none;
     border: 0;
   }
+}
+footer {
+  bottom: 2em;
 }
 .wrapper {
   position: relative;
