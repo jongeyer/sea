@@ -44,6 +44,9 @@ hr {
   margin: .5em 0;
 }
 
+img {
+      max-height: 80vh;
+}
 img + em {
   position: relative;
   top: -5px;
@@ -114,7 +117,7 @@ section {
   border: 1px solid $gray-light;
   border-width: 0 0 1px 1px;
   border-radius: 2px;
-  padding: 1.0em 0 1.8em 1.8em;
+  padding: 1.2em 0 3em 1.8em;
   float: none;
 }
 .topline {
