@@ -29,4 +29,4 @@ A small ceremonial house was built on their property, and was the centerpiece fo
 
 A couple days later we attended the cremation ceremony held in the neighborhood we are staying. Special cow statues were constructed of wood, and placed on platforms that strong men paraded around the streets with a loud percussion band. Later the exhumed bodies of a dozen people, all deceased within the last couple years, were placed inside the cows. The cows were then carefully set on fire with gas torches. The cow eventually starts to crumble, and when the body falls through belly of the burning cow the spirit is released and is allowed to ascend to heaven. Or anyway, that’s about as much as I understood.
 
-<iframe src="https://drive.google.com/file/d/0BxmSVShEdSswdDRrVW5zcXk3ajQ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0BxmSVShEdSswdDRrVW5zcXk3ajQ/preview"></iframe>

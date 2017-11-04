@@ -54,6 +54,9 @@ img + em {
   opacity: .9;
   font-size: 92%;
 }
+iframe {
+  width: 100%;
+}
 
 .overlay {
   position: absolute;
@@ -140,6 +143,9 @@ section {
   font-weight: bold;
   margin-bottom: 1em;
 }
+.dispatch-list {
+  min-width: 225px;
+}
 
 .timestamp {
   margin-left: 1em;
@@ -179,6 +185,9 @@ section {
   main {
     margin-left: calc(250px + 2vw);
   }
+  section {
+    padding-left: 1.5em;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -191,6 +200,7 @@ section {
   }
   .sm-flexbox {
     display: flex;
+    flex-wrap: wrap;
   }
 
   header {
@@ -218,5 +228,9 @@ section {
 
   main {
     margin-left: 0;
+  }
+  section {
+    padding-left: 1em;
+    padding-right: .25em;
   }
 }

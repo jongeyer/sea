@@ -21,7 +21,6 @@ Borobudur temple, has 9 levels, constructed like a step pyramid. These levels ar
 As the morning grew late, the sun was more intense and the tourists and visitors packed in tighter. In spite of its Buddhist symbolism, Borobudur is a revered as a source of pride for all Indonesians. We saw many Indonesians school groups flood the area.
 
 ## Candi Prambanan
-(photo Prambanan 1)
 
 ![Prambanan]({{ site.baseurl }}/assets/img-java/prambanan.jpg)
 *Entrance to Candi Prambanan*
