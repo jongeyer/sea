@@ -1,1 +1,0 @@
-Description / Disclaimer: A non-exhaustive collection of writings (mostly ramblings) about my experiences travelling for several months in Southeast Asia with my wife and son. These are not deep thoughts, nor are they designed to be advice (with some exceptions), if anything they are displays of ignorance being slowly remedied. These are dispatches from Southeast Asia.
