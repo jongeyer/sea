@@ -1,0 +1,14 @@
+{% if page.paginator %}
+  {% assign paginator = page.paginator %}
+{% endif %}
+
+<nav class="js-pagination" aria-label="Page navigation">
+  <ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous"><a href="{{ paginator.previous_page_path | prepend: prepend_pagination_url | relative_url }}/"><span aria-hidden="true">&larr;</span> Newer</a></li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="js-next next"><a href="{{ paginator.next_page_path | prepend: prepend_pagination_url | relative_url }}/">Older <span aria-hidden="true">&rarr;</span></a></li>
+    {% endif %}
+  </ul>
+</nav>

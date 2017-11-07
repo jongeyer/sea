@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<section class="disclaimer">
+Description / Disclaimer: A non-exhaustive collection of writings (mostly
+ramblings) about my experiences travelling for several months in Southeast Asia
+with my wife and son. These are not deep thoughts, nor are they designed to be
+advice (with some exceptions), if anything they are displays of ignorance being
+slowly remedied. These are dispatches from Southeast Asia.
+</section>
+
+
+<div id="posts">
+  {% for post in paginator.posts %}
+  <section>
+    <div class="flexbox align-baseline">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="timestamp flex">{{ post.date | date: "%B %e, %Y" }}</div>
+    </div>
+    <div>
+      {{ post.content }}
+    </div>
+  </section>
+  {% endfor %}
+</div>
+
+{% include pagination.html %}

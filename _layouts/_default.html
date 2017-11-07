@@ -6,7 +6,7 @@ layout: base
   {{ content }}
 </section>
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <section>
   <div class="flexbox align-baseline">
     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>

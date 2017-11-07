@@ -4,5 +4,8 @@ future: true
 title: Dispatches from South East Asia
 description: ...for Asa Kanako Jon
 baseurl: /sea
-plugins:
+paginate: 4
+paginate_path: "page:num"
+gems:
+  - jekyll-paginate
   - jekyll-feed
