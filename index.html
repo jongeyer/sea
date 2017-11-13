@@ -15,7 +15,7 @@ slowly remedied. These are dispatches from Southeast Asia.
   {% for post in paginator.posts %}
   <section>
     <div class="flexbox align-baseline">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h2 class="like-h1"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="timestamp flex">{{ post.date | date: "%B %e, %Y" }}</div>
     </div>
     <div>

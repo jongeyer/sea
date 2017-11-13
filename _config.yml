@@ -6,6 +6,6 @@ description: ...for Asa Kanako Jon
 baseurl: /sea
 paginate: 4
 paginate_path: "page:num"
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
