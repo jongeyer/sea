@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 encoding: utf-8
 future: true
-title: Dispatches from South East Asia
-description: ...for Asa Kanako Jon
+title: Dispatches from Southeast Asia
+description: 
 baseurl: /sea
 paginate: 4
 paginate_path: "page:num"
