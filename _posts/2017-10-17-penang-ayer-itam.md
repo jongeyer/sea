@@ -11,12 +11,12 @@ After we got our visas, we moved to an Airbnb homestay in Ayer Itam (or Air Itam
 
 The complex also has a humongous statue of the goddess Guanyin (Kuan Yin, one of the bodhisattvas of Mahayana Buddhism).
 
-![Kek Lok Si]({{ site.baseurl }}/assets/img-penang/guanyin.jpg)
+![Guanyin statue]({{ site.baseurl }}/assets/img-penang/guanyin.jpg)
 *Guanyin statue tower at Kek Lok Si*
 
 Ayer Itam is also close to Penang Hill, a park resort with a famously scenic view of George Town and the channel. To get up there you can either hike 1-2 hours or (like everyone) you take the somewhat historical railway ([a funicular railway](https://www.wikiwand.com/en/Penang_Hill_Railway)). The line for the train was endless, which is why some people pay double price (80 RM = $20, one way) to skip the line. We went late in the afternoon on a weekday and ended up waiting almost an hour to go up, and after the sunset waited over an hour to get down.
 
-![Kek Lok Si]({{ site.baseurl }}/assets/img-penang/penang-hill.jpg)
+![Penang Hill]({{ site.baseurl }}/assets/img-penang/penang-hill.jpg)
 *View from Penang Hill*
 
 ## Penang Food
