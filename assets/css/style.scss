@@ -104,6 +104,9 @@ img + em {
 }
 
 header {
+  position: sticky;
+  top: 10px;
+
   ol {
     padding-left: 1em;
     margin-left: 3px;
@@ -117,7 +120,8 @@ header {
   }
 }
 footer {
-  bottom: 2em;
+  position: relative;
+  margin-top: 5em;
 }
 .wrapper {
   position: relative;
@@ -169,7 +173,7 @@ section {
 }
 .dispatch-list {
   min-width: 225px;
-  max-height: calc(100vh - 500px);
+  // max-height: calc(100vh - 500px);
   overflow: auto;
 }
 
