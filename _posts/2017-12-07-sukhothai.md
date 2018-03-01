@@ -24,7 +24,7 @@ The old city is now called Sukhothai Historical Park, and in 1991 it was designa
 ![Statues]({{ site.baseurl }}/assets/img-sukhothai/posing.jpg)
 *Statues. Left shows Sukhothai style of walking posture, imparting fearlessness*
 
-Much work has been done to restore ruins here and there, though really everything looks on the edge of collapse. The first day we explored on motorbike the sites outside the perimeter of the walls. The second day we rented bicycles (after finally finding a bike with a child seat for Asa) and roamed around within the walls of the old city. There are many tourists roaming around but, because it is quite large, we never felt like we were getting in the way of someone’s Instagram selfie.
+Much work has been done to restore ruins here and there, though really everything looks on the edge of collapse. The first day we explored on motorbike the sites outside the perimeter of the walls. The second day we rented bicycles and roamed around within the walls of the old city. It took a little while to find a bike with a real child seat for Asa -- and that is only because most of the bikes we saw were secondhand from Japan. There are many tourists roaming around but, because it is quite large, we never felt like we were getting in the way of someone’s Instagram selfie.
 
 ![Bicycling in Old Sukhothai]({{ site.baseurl }}/assets/img-sukhothai/bicycle.jpg)
 *Bicycling in Old Sukhothai*
