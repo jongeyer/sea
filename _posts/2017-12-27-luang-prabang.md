@@ -32,12 +32,12 @@ The older children who are ready for the trials of courtship, participate in the
 *pov pob players*
 
 ## Monks
-The town of Luang Prabang is dense with historical temples preserved in large part because of its vibrant monastic community. I’ve read the nearly a third of male Laotian children spend a time as novice monks, mainly as the best available option to get an education, especially for rural children. Many boys start as young as 8, or in some cases even younger. We saw these novice monks everywhere in town — strolling the streets, running errands or doing chores within their assigned temple grounds. Some were eager to chat in English.
+The town of Luang Prabang is dense with historical temples preserved in large part because of its vibrant monastic community. I’ve read that nearly a third of male Laotian children spend some time as novice monks, mainly as the best available option to get an education, especially for rural children. Many boys start as young as 8, or in some cases even younger. We saw these novice monks everywhere in town — strolling the streets, running errands or doing chores within their assigned temple grounds. Some were eager to chat in English, and spoke quite well.
 
 ![morning alms]({{ site.baseurl }}/assets/img-luangprabang/morning-alms.jpg)
 *Morning alms ritual*
 
-The ritual of the morning offering is carried out in many places across Asia with dense traditional Buddhist populations, and in Luang Prabang it is spectacle that attracts many people. Monks rise early before dawn and take to the streets to silently and humbly receive offerings of food. In Laos these offerings are mainly chunks of sticky rice which are carefully tossed into the monk’s alms bowls by low-seated almgivers. I saw busloads of drowsy tourists stumbling down to the intersections led by smiling guides snapping pictures of these serious-looking young boys, some sitting at the low plastic seats to participate in the ritual.
+The ritual of the morning offering is carried out in many places across Asia with dense traditional Buddhist populations, and in Luang Prabang it is a spectacle that attracts many people. Monks rise early before dawn and take to the streets to silently and humbly receive offerings of food. In Laos these offerings are mainly chunks of sticky rice which are carefully tossed into the monk’s alms bowls by low-seated almgivers. I saw busloads of drowsy tourists stumbling down to the intersections led by smiling guides snapping pictures of these serious-looking young boys, some sitting at the low plastic seats to participate in the ritual.
 
 ## Crafts village
 
@@ -49,14 +49,14 @@ The center of Luang Prabang is actually a peninsula with the Mekong on one side 
 ![silk thread]({{ site.baseurl }}/assets/img-luangprabang/silk-hanging.jpg)
 *Silk thread, spun and dyed*
 
-It was impressive to see and made me rethink some preconceived notions. When walking into shops in the U.S. lined with silk scarves with a small tag saying made in Laos, I had the vision of all these scarves being made in some poorly ventilated sweatshop basement, child labor exploited by oppressive heartless bosses. The picture that replaced that vision was not glamourous nor at all easy, but it was not (apparently) exploitative.
+It was impressive to see and made me rethink some preconceived notions. When walking into shops in the U.S. lined with silk scarves with a small tag saying made in Laos, I had the vision of a worst case scenario, all these scarves being made in some poorly ventilated sweatshop basement, child labor exploited by oppressive heartless bosses. The picture that replaced that vision was not glamourous nor at all easy, but it was not (apparently) exploitative.
 
 ![looms]({{ site.baseurl }}/assets/img-luangprabang/silk-loom.jpg)
 *Looms for weaving silk and cotton*
 
 
 ## Money parade
-We woke up a little late one morning and heard drumming and music from the street, so we strolled down from the upstairs room of our bed and breakfast to find a parade of thousands of people filing down the main street. They were of all ages and many were carrying ... of specially fabricated money trees, that is a metal armature intricately adorned with bills (mostly bills of small value). These money trees were taken to be donated to Wat Xiengthong, one of the main temples of Luang Prabang. The money tree ritual is just one of the ways Buddhists "[make merit](https://www.wikiwand.com/en/Merit_(Buddhism))" -- to put it quite simply, merit is accumulated by doing good deeds which has the result of creating a protective and benefical force in the journey to enlightenment. Merit is related to **karma** but definitely not the same thing.
+We woke up a little late one morning and heard drumming and music from the street, so we strolled down from the upstairs room of our bed and breakfast to find a parade of thousands of people filing down the main street. They were of all ages and many were carrying ... of specially fabricated money trees, that is a metal armature intricately adorned with bills (mostly bills of small value). These money trees were taken to be donated to Wat Xiengthong, one of the main temples of Luang Prabang. The money tree ritual is just one of the ways Buddhists "[make merit](https://www.wikiwand.com/en/Merit_(Buddhism))" -- to put it quite simply, merit is accumulated by doing good deeds which has the result of creating a protective and benefical force in the journey to enlightenment. Merit is related to **karma** but definitely not the same thing. After this experience I started to see money trees on display or tucked away inside other temples in Laos and Thailand.
 
 ![Money tree parade]({{ site.baseurl }}/assets/img-luangprabang/parade.jpg)
 *Money tree parade*
