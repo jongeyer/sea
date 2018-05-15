@@ -4,7 +4,7 @@ title: Chiang Mai (Part 2)
 ---
 
 
-After Chiang Rai we returned to Chiang Mai for a short prep time to get ready
+After Chiang Rai we returned to Chiang Mai looking to have some down time to get ready
 for our trip to Myanmar. First we spent a week east of the Old City, and then
 we spent a few days on the west side of Chiang Mai, closer to the airport.
 
@@ -16,6 +16,7 @@ parks, river walks, a remote resort where you could pay to use the pool. Then we
 packed up and moved to the next spot.
 
 ## Rajapruek
+
 Actually before we went to Chiang Rai, we had spent a week in the western part
 of Chiang Mai, between the mountains and the airport. During that stay we learned
 about the nearby [Royal Park Rajapruek](http://www.royalparkrajapruek.org/).
