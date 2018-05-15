@@ -171,6 +171,12 @@ section {
   font-weight: bold;
   margin-bottom: 1em;
 }
+.title,
+.subtitle {
+  a {
+    color: initial;
+  }
+}
 .dispatch-list {
   min-width: 225px;
   max-height: calc(100vh - 300px);
